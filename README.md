@@ -37,4 +37,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EasyFullCode&theme=windows-dark&locale=es&mode=weekly)](https://git.io/streak-stats)
 ![EasyFullCode GitHub stats](https://github-readme-stats.vercel.app/api?username=EasyFullCode&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EasyFullCode&hide_progress=true)](https://github.com/EasyFullCode/github-readme-stats)
