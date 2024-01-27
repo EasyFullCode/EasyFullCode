@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
     <h1 align="center">Hola!, he aquí todos mis proyectos hasta el momento.</h1>
-    <h3 align="center">He dedicado horas de estudio para fortalecer conocimientos sobre Desarrollo Web, ya que es la rama de mi carrera que más me atrae.</h3>
+    <h3 align="center">Con un profundo compromiso con las mejores prácticas de desarrollo, me esfuerzo por crear experiencias digitales intuitivas y eficientes.</h3>
 </div>
 
 ---
