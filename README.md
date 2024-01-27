@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
     <h1 align="center">Hola!, he aquí todos mis proyectos hasta el momento.</h1>
-    <h3 align="center">Con un profundo compromiso con las mejores prácticas de desarrollo, me esfuerzo por crear experiencias digitales intuitivas y eficientes.</h3>
+    <h3 align="center">Me esfuerzo por crear experiencias digitales intuitivas y eficientes, con un profundo compromiso con las mejores prácticas de desarrollo.</h3>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 👨‍💻 Sobre Mi :
 - 📝 Estudiante Pregrado de la carrera de Ingenieria de Sistemas.
 
-- 💬 Conocimientos acerca de Desarrollo web, Base de Datos, Redes y Telecomunicaciones.
+- 💬 Conocimientos acerca de Desarrollo web, Diseño UX/UI y Base de Datos.
 
 - 📫 Siempre atento: aphuachaca@gmail.com
 
